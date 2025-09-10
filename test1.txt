@@ -7,3 +7,5 @@ I am very nice to meet you
 I am so sad
 
 commit 1 on feature/diverge
+
+commit 2 on feature/diverge
